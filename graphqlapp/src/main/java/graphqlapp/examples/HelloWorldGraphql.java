@@ -1,4 +1,4 @@
-package graphqlapp.hello;
+package graphqlapp.examples;
 
 import graphql.GraphQL;
 import graphql.schema.GraphQLObjectType;
